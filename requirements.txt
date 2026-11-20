@@ -1,0 +1,3 @@
+numpy-Arrays and numerical calculations
+scipy- Scientific and mathematical computations
+matplotlib - Creating graphs and visualizations
