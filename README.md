@@ -1,6 +1,6 @@
 ## Project Overview
 
-This repository contains Python implementations of numerical and scientific computing techniques covered in the BIT 2118 Scientific Computing unit.
+This repository contains Python implementations of numerical and scientific computing techniques covered in the Scientific Computing unit.
 
 The project demonstrates how Python libraries such as NumPy, SciPy, and Matplotlib can be used to solve mathematical and computational problems.
 
@@ -98,4 +98,4 @@ Through this project, I developed practical experience applying numerical method
 
 ## Author
 
-BIT 2118 – Scientific Computing Assignment
+Terryann Wanjiru
